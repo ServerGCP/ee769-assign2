@@ -1,0 +1,9 @@
+All Links related to Assignment 2
+
+Link to Colab: https://colab.research.google.com/drive/1nNa2-a6KyGURPN7KnpxEYR4o133XBzK2
+
+Link to Github: https://github.com/ServerGCP/ee769-assign2
+
+Link to Streamlit: https://22m0828-ee769-demo.streamlit.app/
+
+Link to Demo: https://drive.google.com/file/d/1aL6to5DxY0DgrTrD9ARB54cTS_sef8mG
