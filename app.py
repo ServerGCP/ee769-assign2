@@ -48,7 +48,7 @@ get_sliders(False)
 if st.button('Predict'):
     # Transform features and make prediction
     features = [list(slider_dict.values())]
-        features = scaler.transform(features)
-        quality = model.predict(features)[0]
-        # Display predicted quality with success message
-        st.success(f'The predicted wine quality is {quality}')
+    features = scaler.transform(features)
+    quality = model.predict(features)[0]
+    # Display predicted quality with success message
+    st.success(f'The predicted wine quality is {quality}')
